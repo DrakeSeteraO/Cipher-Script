@@ -1,0 +1,24 @@
+Hi this is a file that you can run "./chipher.sh" on.
+However if you want more info on how cipher.sh works you can find the info commented in cipher.sh
+
+After running the command "./cipher.sh example.txt" or "./cipher -e example.txt" this file will be encrypted and you won't be able to read this.
+At least Hopefully this file will be encrypted.
+
+You can also write some stuff here if you want to:
+
+
+
+Fc vlr 7ob ob7afkd qefp qe7q jb7kp qe7q qeb cfib fp bk9ovmqba.
+Ql ab9ovmq qeb cfib ork qeb 9ljj7ka "./9fmebo.pe -a bu7jmib.quq"
+
+
+
+You can also specify an amount to encrypt by using -n.
+To encrypt this file by the number 21 you can run the command "./cipher -n21 example.txt" or "./cipher -en21 example.txt"
+
+
+
+nU d39 P6T 7TTX2V 8WX7 8WT2 d39 WPaT 79RRT77U900d T2R6d48TS 8WT UX0T Qd 8WT 291QT6 HG.
+y3 STR6d48 8WT UX0T Qd 8WT 291QT6 HG Qd 6922X2V 8WT R311P2S "./RX4WT6 -S2HG TcP140T.8c8"
+
+yWP2Z d39 U36 S3X2V P2S 6TPSX2V 1d 89836XP0. mPaT P V6TP8 6T78 3U d396 SPd :) 
